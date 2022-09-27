@@ -1,3 +1,3 @@
-# .github
-STAR is a joint effort of 15 European partners towards designing new technologies to enable the deployment of standard-based secure, safe, reliable and trusted human centric AI systems in manufacturing environment. STAR aims to research, develop, validate and make available to the community leading-edge AI technologies including explainable AI, active learning systems, simulated reality systems, human-centric digital twins, advanced reinforcement learning techniques and cyber-defense mechanisms, thus becoming a catalyst for the deployment of advanced AI systems in the manufacturing shop-floor.
-STAR is funded under the EU Horizon 2020 programme.
+# STAR - EU Horizon 2020 
+**STAR** is a joint effort of 15 European partners towards designing new technologies to enable the deployment of standard-based secure, safe, reliable and trusted human centric AI systems in manufacturing environment. STAR aims to research, develop, validate and make available to the community leading-edge AI technologies including explainable AI, active learning systems, simulated reality systems, human-centric digital twins, advanced reinforcement learning techniques and cyber-defense mechanisms, thus becoming a catalyst for the deployment of advanced AI systems in the manufacturing shop-floor.
+STAR is funded under the EU Horizon 2020 programme (Grant agreement ID: 956573).
